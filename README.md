@@ -7,11 +7,12 @@
    <body>
         <header>
             <h1>Welcome to my profile.</h1>
-        </header> <img src= "img20210809png.jpn-copy-1.png">
+        </header> <img src= "img20210809png.jpn-copy-1.png"><img width="227" alt="img20210809png jpn" src="https://user-images.githubusercontent.com/87911177/129479796-8b53509d-8264-4cc2-81d5-861a7898cead.png">
         
-         <header> <h1"font-size: 50px;"> </header>
+        
          <main>
         <u1>
+
         <li>Name: Budoor Abdulaziz A Alsaleem</li>
         <li>Student ID: s3817343</li>
         <li>Email: s4817343@student.rmit.edu.au</li>
