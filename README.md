@@ -1,5 +1,4 @@
-
-
+<!DOCTYPE html>
 <html>
    <head>
        
@@ -8,8 +7,6 @@
         <header>
             <h1>Welcome to my profile.</h1>
         </header> <img width="227" alt="img20210809png jpn" src="https://user-images.githubusercontent.com/87911177/129479796-8b53509d-8264-4cc2-81d5-861a7898cead.png">
-        
-        
          <main>
         <u1>
 
